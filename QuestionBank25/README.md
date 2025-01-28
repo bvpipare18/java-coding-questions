@@ -9,3 +9,4 @@
 7. Replace every occurrence of a in the string 'Karnataka with @ and print the result.
 8. Convert the string learning into uppercase and reverse the result.
 9. Write a method to check if two strings are anagrams. For example, listen and silent.
+10. Extract all digits from the string abc123xyz456 and return their sum.
