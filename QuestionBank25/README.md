@@ -6,3 +6,4 @@
 4. Check if the given string 'Java' is a palindrome
 5. Count the number of vowels and consonants in the string "Technology".
 6. Find the first non-repeating character in the string "developer'.
+7. Replace every occurrence of a in the string 'Karnataka with @ and print the result.
