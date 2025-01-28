@@ -16,11 +16,11 @@
 14. From the string hello123world456, extract numbers, concatenate them, and find their sum (*123 + 456").
 15. Reverse the words in the sentence 'Hello World from Java' to produce Java from World Hello'.
 16. Find the length of the longest substring in 'abcabbb that has no repeating characters.
-17. Check if the string abcd1234* is alphanumeric.
-18. Replace spaces in the string open ai chat with underscores (_*) to produce open_ai_chat.
+17. Check if the string abcd1234 is alphanumeric.
+18. Replace spaces in the string open ai chat with underscores (_) to produce open_ai_chat.
 19. Write a program to count the occurrence of each character in the string statistics.
-20. Write a function to toggle the case of each character in 'AbCdeF* (e.g., convert to
-    *aBcDEf).
+20. Write a function to toggle the case of each character in 'AbCdeF (e.g., convert to
+    aBcDEf).
 21. Find the lexicographically smallest and largest substring of length 3 in the string
     "welcometojava
 22. Write a method to check if a string Abcdef starts with a vowel and ends with a consonant.
