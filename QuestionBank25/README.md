@@ -5,3 +5,4 @@
 3. Write a program to reverse the string 'Bangalore without using built-in functions.
 4. Check if the given string 'Java' is a palindrome
 5. Count the number of vowels and consonants in the string "Technology".
+6. Find the first non-repeating character in the string "developer'.
